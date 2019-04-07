@@ -5,7 +5,7 @@ Copy this folder to the gnome-shell extension folders, typically under `.local/s
 
 Using a terminal, you can do the following sequence of commands :
 
-$ git clone https://github.com/laerne/desaturate_all.git
+$ git clone https://github.com/esteveste/desaturate_all_mod.git
 $ mv desaturate_all_mod "~/.local/share/gnome-shell/extensions/desaturate_all_mod@esteveste"
 
 Then restart gnome by pressing `ALT`+`F2`, then entering `r` and validating with `RETURN`.
@@ -14,3 +14,4 @@ You can now enable the extension by browsing to https://extensions.gnome.org/loc
 
 
 Based on https://github.com/laerne/desaturate_all
+
