@@ -1,6 +1,6 @@
 {
-    "uuid": "desaturate_all@nicolas.brack.mail.be",
-    "name": "Desaturate All",
-    "description": "Desature the entire gnome workspace",
+    "uuid": "desaturate_all_mod@esteveste",
+    "name": "Desaturate All Mod",
+    "description": "Desature the entire gnome workspace on Night time",
     "shell-version": ["3.18.5"]
 }
